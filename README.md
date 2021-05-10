@@ -14,9 +14,5 @@ terraform apply
 - open [https://api.slack.com/apps](https://api.slack.com/apps)
 - click the "Create New App" button
 - use the "Slash Commands" link located in the sidebar
-<<<<<<< HEAD
 - use `boilerplate_url` to fill the "Request URL" parameter
 ![command.png](https://github.com/rhel/slack-boilerplate/blob/master/images/command.png?raw=true)
-=======
-- ![command.png](https://github.com/rhel/slack-boilerplate/blob/master/images/command.png?raw=true)
->>>>>>> 138eab4128ea364add7db8a94fe387dc802ba04f
